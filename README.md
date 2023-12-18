@@ -12,7 +12,7 @@ The transformation process involves converting the historical time series price 
 
 The Swin Transformer, short for "Shifted Window Transformer," is a groundbreaking architecture in the field of computer vision. It has emerged as a powerful backbone for various tasks, including image classification, object detection, and semantic segmentation.
 
-![Swin Architecture](statics\swin.png)
+![Swin Architecture](https://github.com/baturgezici/DTBAPADP/blob/main/statics/swin.png?raw=true)
 
 ### DeiT
 
@@ -26,7 +26,7 @@ The Vision Transformer (ViT) architecture is a transformer-based model originall
 
 ConvMixer blends the strengths of convolutional neural networks (CNNs) and Transformers to understand images. Imagine dividing a photo into patches, then letting each patch through a stack of convolutional layers like a mini CNN, sharpening its focus on local features like edges and textures. Next, a "mixer" inspired by Transformers kicks in, allowing each patch to chat with all its neighbors, sharing their insights and building a holistic understanding of the entire image. This hybrid approach lets ConvMixer capture both fine details and long-range relationships, achieving high accuracy with less computational cost than pure Transformers. It's like giving each image patch a tiny CNN brain and then connecting them all for a grand brainstorming session, making ConvMixer a promising direction for future image processing advancements. 
 
-![ConvMixer Architecture](statics\ConvMixer.jpg)
+![ConvMixer Architecture](https://github.com/baturgezici/DTBAPADP/blob/main/statics/ConvMixer.jpg?raw=true)
 
 ## Installation
 
