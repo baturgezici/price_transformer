@@ -1,0 +1,11 @@
+torch
+tensorflow
+matplotlib
+scikit-learn
+scipy
+pandas
+numpy
+transformers
+torchvision
+PIL
+linformer
