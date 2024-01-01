@@ -35,5 +35,13 @@ ConvMixer blends the strengths of convolutional neural networks (CNNs) and Trans
 
 ## Usage
 
-After installing the dependencies, you can run the architectures using the following commands: `python3 test_convmixer_2.py`, `python3 test_transformer.py`, `python3 swin_v2.py`, `python3 deit22.py`, `python3 cnn.py`.
+After installing the dependencies, you can run the architectures using the following commands: 
+    `python test_convmixer_2.py`
+    `python test_transformer.py`
+    `python swin_v2.py`
+    `python deit22.py`
+    `python cnn.py`.
 
+## Contact
+
+You can contact Emre Sefer (emre.sefer@ozyegin.edu.tr) or Batur Gezici (batur.gezici@ozu.edu.tr) if you have any questions about the implementation.
